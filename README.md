@@ -13,12 +13,14 @@ Inclui um template HTML/CSS minimalista e instruções para editar título, subt
 ## Uso
 - Edite os campos no `<header>` de `design/poster.html` para título e subtítulo e, em seguida, atualize a seção de informações (data/local/CTA).  
 - Ajuste as variáveis CSS em `design/styles.css` para personalização rápida:
+
 :root{
 --brand:#1E3A8A; /* azul-escuro /
 --accent:#F97316; / laranja /
 --ink:#111827; / grafite /
 --bg:#FAFAFA; / fundo claro */
 }
+
 - Exporte o cartaz:  
 - Captura de tela em alta resolução  
 - Ou “Imprimir” > “Salvar como PDF” com margens mínimas
