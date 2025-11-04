@@ -1,9 +1,9 @@
 /* design/styles.css */
 :root{
---brand:#1E3A8A; /* azul-escuro /
---accent:#F97316; / laranja /
---ink:#111827; / grafite /
---bg:#FAFAFA; / fundo claro */
+--brand:#1E3A8A; /* azul-escuro */
+--accent:#F97316; /* laranja */
+--ink:#111827; /* grafite */
+--bg:#FAFAFA; /* fundo claro */
 }
 
 *{box-sizing:border-box}
