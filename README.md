@@ -16,10 +16,10 @@ Inclui um template HTML/CSS minimalista e instruções para editar título, subt
 
 ```
 :root{
---brand:#1E3A8A; /* azul-escuro /
---accent:#F97316; / laranja /
---ink:#111827; / grafite /
---bg:#FAFAFA; / fundo claro */
+--brand:#1E3A8A; /* azul-escuro */
+--accent:#F97316; /* laranja */
+--ink:#111827; /* grafite */
+--bg:#FAFAFA; /* fundo claro */
 }
 ```
 
