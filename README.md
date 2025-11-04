@@ -6,8 +6,7 @@ Inclui um template HTML/CSS minimalista e instruções para editar título, subt
 
 ## Instalação
 - Pré-requisitos: navegador moderno (Chrome/Firefox/Edge), sem dependências extras.  
-- Passos:
-- Clone este repositório: `git clone <URL>`  
+- Clone este repositório: `git clone https://github.com/passatempoxd/Poster-Minimal.git`  
 - Abra `design/poster.html` no navegador  
 - Edite textos no HTML e cores em `design/styles.css` conforme necessário
 
@@ -20,7 +19,7 @@ Inclui um template HTML/CSS minimalista e instruções para editar título, subt
 --ink:#111827; / grafite /
 --bg:#FAFAFA; / fundo claro */
 }
-- Exporte o cartaz:
+- Exporte o cartaz:  
 - Captura de tela em alta resolução  
 - Ou “Imprimir” > “Salvar como PDF” com margens mínimas
 
